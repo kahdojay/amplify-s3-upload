@@ -95,8 +95,8 @@ CODEGEN="{\
 }"
 
 FUNCTIONCONFIG="[{\
-    \"resourceName\":\"authPreSignup\",\
-    \"DOMAINWHITELIST\":\"amazon.com\"\
+    \"resourceName\":\"authPreSignup\", // the resource name from the function’s parameters.json
+    \"DOMAINWHITELIST\":\"amazon.com\"
 }]"
 
 CATEGORIES="{\
