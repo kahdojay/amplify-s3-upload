@@ -108,7 +108,7 @@
 				"Runtime": "nodejs8.10",
 				"Timeout": "25",
 				"Code": {
-					"S3Bucket": "amplify-s3-upload-dev-20190804171312-deployment",
+					"S3Bucket": "amplify-amplify-s3-upload-testmonday-190143-deployment",
 					"S3Key": "amplify-builds/authPreSignup-7458526a5639626f6c4e-build.zip"
 				}
 			}
